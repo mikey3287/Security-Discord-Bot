@@ -10,4 +10,4 @@ WARNING_COLOR = 0xFEE75C  # yellow
 
 # Bot theme / footer
 FOOTER_TEXT = "🛡️ Security Discord Bot"
-FOOTER_ICON = "https://cdn-icons-png.flaticon.com/512/3064/3064197.png"  # optional image url
+FOOTER_ICON = "https://imgur.com/a/kuqmVwT"  # optional image url
